@@ -1,0 +1,6 @@
+seafile-ignore.txt
+notes.docx
+_attic
+*-backup/
+*.lck
+*auto_saved*
