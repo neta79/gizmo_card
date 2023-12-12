@@ -1,6 +1,6 @@
 seafile-ignore.txt
 notes.docx
 _attic
-*-backup/
+*-backups/
 *.lck
 *auto_saved*
