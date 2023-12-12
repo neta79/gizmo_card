@@ -486,7 +486,7 @@
     (at 72.517 86.868 -90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC Part" "C965790")
+    (property "LCSC Part" "C60490")
     (property "Sheetfile" "bizcool_card.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor")
@@ -541,6 +541,7 @@
     (at 75.819 65.659)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
+    (property "LCSC Part" "C60133")
     (property "Sheetfile" "bizcool_card.kicad_sch")
     (property "Sheetname" "")
     (property "dnp" "")
@@ -1295,7 +1296,8 @@
     (at 72.517 95.631 90)
     (descr "Miniature Crystal Clock Oscillator EuroQuartz XO32 series, http://cdn-reichelt.de/documents/datenblatt/B400/XO32.pdf, 3.2x2.5mm^2 package")
     (tags "SMD SMT crystal oscillator")
-    (property "Part" "CF4040M00010001")
+    (property "LCSC Part" "C7294751")
+    (property "Part" "DF2032K76812001")
     (property "Sheetfile" "bizcool_card.kicad_sch")
     (property "Sheetname" "")
     (property "dnp" "")
@@ -2058,7 +2060,7 @@
     (at 75.819 60.96 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC Part" "C965790")
+    (property "LCSC Part" "C60490")
     (property "Sheetfile" "bizcool_card.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor")
@@ -4762,6 +4764,7 @@
     (at 65.525 89.789 90)
     (descr "QFN, 32 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_32_05-08-1693.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "QFN NoLead")
+    (property "LCSC Part" "C5143572")
     (property "Sheetfile" "bizcool_card.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "ESP32-C3 family is an ultra-low-power MCU-based SoC solution that supports 2.4 GHz Wi-Fi and Bluetooth®Low Energy (Bluetooth LE).")
@@ -5179,6 +5182,7 @@
     (at 65.659 82.55)
     (descr "SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
+    (property "LCSC Part" "C97521")
     (property "Sheetfile" "bizcool_card.kicad_sch")
     (property "Sheetname" "")
     (property "dnp" "")
@@ -5191,7 +5195,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2e6619c5-4d0f-42d8-b0fb-71ab55feba1f)
     )
-    (fp_text value "W25Q128JVS" (at 0 3.56) (layer "F.Fab")
+    (fp_text value "W25Q128JVSIQ" (at 0 3.56) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b27ef6f5-3fc9-4360-b96a-a6cee17458dc)
     )
@@ -6898,7 +6902,7 @@
     (at 76.581 95.631 -90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC Part" "C965790")
+    (property "LCSC Part" "C60490")
     (property "Sheetfile" "bizcool_card.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor")
@@ -7460,6 +7464,7 @@
     (at 59.69 91.059)
     (descr "Miniature Crystal Clock Oscillator EuroQuartz XO32 series, http://cdn-reichelt.de/documents/datenblatt/B400/XO32.pdf, 3.2x2.5mm^2 package")
     (tags "SMD SMT crystal oscillator")
+    (property "LCSC Part" "C7294598")
     (property "Part" "CF4040M00010001")
     (property "Sheetfile" "bizcool_card.kicad_sch")
     (property "Sheetname" "")
@@ -7550,7 +7555,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c5ef14a5-049b-43c0-b77a-ee0b2b0a0b72)
     )
-    (fp_text value "ME6211C33M5G" (at 0 4.5 -90) (layer "F.Fab")
+    (fp_text value "AMS1117-3.3" (at 0 4.5 -90) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cd549665-f6e5-419a-9c49-97f91b3ac4f7)
     )
@@ -7718,7 +7723,7 @@
     (at 75.819 67.818 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC Part" "C965790")
+    (property "LCSC Part" "C60490")
     (property "Sheetfile" "bizcool_card.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor")
@@ -8665,7 +8670,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp fdb5d999-3447-4e9a-9604-30ae2bc2242b))
   (gr_text "System Architect" (at 129.794 67.437) (layer "B.SilkS") (tstamp 35b622de-e0b8-4d96-8862-5a0e77f338ad)
     (effects (font (face "Calibri") (size 4 4) (thickness 0.15)) (justify left bottom mirror))
-    (render_cache "System Architect" -0
+    (render_cache "System Architect" 0
       (polygon
         (pts
           (xy 127.412143 65.761466)          (xy 127.41295 65.808246)          (xy 127.415372 65.854064)          (xy 127.419408 65.898921)
@@ -9479,7 +9484,7 @@
   )
   (gr_text "Check out my stuff at github.com/neta79" (at 133.055751 101.219) (layer "B.SilkS") (tstamp 3760db9e-9b90-4f8f-97b8-4ce3808ae5a1)
     (effects (font (face "Calibri") (size 3 3) (thickness 0.15)) (justify left bottom mirror))
-    (render_cache "Check out my stuff at github.com/neta79" -0
+    (render_cache "Check out my stuff at github.com/neta79" 0
       (polygon
         (pts
           (xy 130.92058 100.361686)          (xy 130.921129 100.392644)          (xy 130.922778 100.419572)          (xy 130.926925 100.449099)
@@ -11365,7 +11370,7 @@
   )
   (gr_text "+39 3288144938\n" (at 121.79176 94.869) (layer "B.SilkS") (tstamp 69b77057-2b5a-4e01-bf67-0b2362a57226)
     (effects (font (face "OCR A Extended") (size 3.5 4) (thickness 0.15)) (justify left bottom mirror))
-    (render_cache "+39 3288144938\n" -0
+    (render_cache "+39 3288144938\n" 0
       (polygon
         (pts
           (xy 120.294062 92.468557)          (xy 120.294062 91.846227)          (xy 120.29079 91.811468)          (xy 120.279036 91.774549)
@@ -11767,7 +11772,7 @@
   )
   (gr_text "A RISC-V gadget, with Python, Wi-Fi & Bluetooth.\n(Also, a business card)" (at 98.129513 79.756) (layer "B.SilkS") (tstamp 7a03adb0-7916-49f5-910f-be8045c9009a)
     (effects (font (face "Calibri") (size 2.5 2.4) (thickness 0.15)) (justify bottom mirror))
-    (render_cache "A RISC-V gadget, with Python, Wi-Fi & Bluetooth.\n(Also, a business card)" -0
+    (render_cache "A RISC-V gadget, with Python, Wi-Fi & Bluetooth.\n(Also, a business card)" 0
       (polygon
         (pts
           (xy 129.571773 75.017427)          (xy 129.564028 75.041374)          (xy 129.558803 75.065397)          (xy 129.557704 75.077877)
@@ -15019,7 +15024,7 @@
   )
   (gr_text "neta@logn.info" (at 121.79176 88.519) (layer "B.SilkS") (tstamp 7af51186-2f18-416c-92bc-72b9a77d28f1)
     (effects (font (face "OCR A Extended") (size 3.5 4) (thickness 0.15)) (justify left bottom mirror))
-    (render_cache "neta@logn.info" -0
+    (render_cache "neta@logn.info" 0
       (polygon
         (pts
           (xy 120.131885 86.062992)          (xy 120.761055 86.337399)          (xy 120.761055 87.709433)          (xy 120.764374 87.746476)
@@ -15602,7 +15607,7 @@
   )
   (gr_text "Andrea Gronchi" (at 133.858 60.96) (layer "B.SilkS") (tstamp 8e805c9e-952e-4e03-98fd-b96922ef46e1)
     (effects (font (face "Calibri") (size 6 6) (thickness 0.15)) (justify left bottom mirror))
-    (render_cache "Andrea Gronchi" -0
+    (render_cache "Andrea Gronchi" 0
       (polygon
         (pts
           (xy 129.155348 59.667424)          (xy 129.135985 59.724899)          (xy 129.122924 59.782554)          (xy 129.120177 59.812505)
